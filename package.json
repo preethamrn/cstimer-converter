@@ -1,0 +1,20 @@
+{
+  "name": "cstimer-converter",
+  "description": "Convert cstimer.net times to csv format compatible with Google Sheets or Microsoft Excel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/preethamrn/cstimer-converter"
+  },
+  "keywords": [],
+  "author": "preethamrn <Preetham Narayanareddy>",
+  "bugs": {
+  "license": "MIT",
+    "url": "https://github.com/preethamrn/cstimer-converter/issues"
+  },
+  "homepage": "https://github.com/preethamrn/cstimer-converter"
+}
