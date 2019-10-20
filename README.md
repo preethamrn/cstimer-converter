@@ -1,6 +1,6 @@
 # cstimer-converter
 
-Convert cstimer.net times to csv format compatible with Google Sheets or Microsoft Excel
+Convert cstimer.net times to tsv format compatible with Google Sheets or Microsoft Excel
 
 ## Requirements
 
@@ -23,7 +23,7 @@ Copy your cstimer.txt file with the times to this folder. Run the converter scri
 npm run start
 ```
 
-The csv file will be output to `times.csv`.
+The tsv file will be output to `times.tsv`.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

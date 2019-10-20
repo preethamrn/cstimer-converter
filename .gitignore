@@ -1,6 +1,7 @@
 # Script specific
 cstimer.txt
 times.csv
+times.tsv
 
 # Logs
 logs
